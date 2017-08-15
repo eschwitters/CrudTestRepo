@@ -1,1 +1,0 @@
-This is the first test of the Github CRUD protocol.
