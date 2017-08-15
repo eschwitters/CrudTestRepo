@@ -1,1 +1,1 @@
-This is the first test of the Github CRUD protocol.
+This is the first test of the Github CRUD protocol. This is version 2.
