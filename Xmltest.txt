@@ -1,5 +1,5 @@
 <Data>
-  <Tier count="5">
+  <Tier count="6">
     <Name>Erick</Name>
   </Tier>
 </Data>
