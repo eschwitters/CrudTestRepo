@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Test App</string>
+  <string name="language_default">en-us</string>
+  <string name="ICEMessages">en-us</string>
+  <string name="general_preferences">en-us</string>
+  <string name="messages_read_cache">en-us</string>
+  <string name="remote_settings_url">https://www.google.com</string>
+  <string name="default_settings_passcode">5401</string>
+  <string name="version">9.9.9</string>
+  <string name="build">9</string>
+  <string name="type"></string>
+</resources>
