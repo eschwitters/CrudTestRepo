@@ -1,0 +1,46 @@
+<resources>
+  <style name="AppTheme" parent="@android:style/Theme.Holo.Light.NoActionBar">
+    <item name="android:windowBackground">@color/trans</item>
+    <item name="announcement_bg_top">#000000</item>
+    <item name="announcement_bg_bottom">#000000</item>
+    <item name="announcement_bg_top_trans">99000000</item>
+    <item name="announcement_bg_bottom_trans">99000000</item>
+    <item name="announcement_bg_font">#FFFFFF</item>
+    <item name="header_bar_bg_top">#FFFFFF</item>
+    <item name="header_bar_bg_bottom">#FFFFFF</item>
+    <item name="header_bar_bg_font">#000000</item>
+    <item name="page_title_font">#000000</item>
+    <item name="services_bg_top">#FFFFFF</item>
+    <item name="services_bg_bottom">#FFFFFF</item>
+    <item name="services_bg_font">#000000</item>
+    <item name="services_bg_font_light">#40000000</item>
+    <item name="card_bg_top">#FFFFFF</item>
+    <item name="card_bg_bottom">#FFFFFF</item>
+    <item name="card_bg_font">#000000</item>
+    <item name="active_bg_top">#FFFFFF</item>
+    <item name="active_bg_bottom">#FFFFFF</item>
+    <item name="light_active_bg_top">#4dFFFFFF</item>
+    <item name="light_active_bg_bottom">#4dFFFFFF</item>
+    <item name="active_text">#FFFFFF</item>
+    <item name="active_bg_font">#000000</item>
+    <item name="section_bg">#FFFFFF</item>
+    <item name="section_bg_font">#000000</item>
+    <item name="section_bg_font_light">#40000000</item>
+    <item name="content_bg">#FFFFFF</item>
+    <item name="content_bg_font">#000000</item>
+    <item name="content_bg_font_light">#40000000</item>
+    <item name="base_bg">#FFFFFF</item>
+    <item name="base_bg_font">#000000</item>
+    <item name="base_bg_font_light">#40000000</item>
+    <item name="dashboard_gradient_top">#80000000</item>
+    <item name="dashboard_gradient_middle">#CD000000</item>
+    <item name="dashboard_gradient_bottom">#ff000000</item>
+    <item name="dashboard_bg_font">#000000</item>
+    <item name="dashboard_bg_font_light">#80000000</item>
+    <item name="font_1_bold">fonts/geo231_bold.ttf</item>
+    <item name="font_1">fonts/geo231.ttf</item>
+    <item name="font_2">fonts/Lato-Regular.ttf</item>
+    <item name="font_3">fonts/baskerville.otf</item>
+    <item name="image_bg">#222222</item>
+  </style>
+</resources>
